@@ -123,3 +123,5 @@ print('\033[1;3m' ,('Your total price is__', total ),'\033[0m')
 
 
 
+
+ 
